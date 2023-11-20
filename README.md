@@ -1,16 +1,20 @@
-### Hi there 👋
+### 專長 
+:collision: 統計小白 \
+:computer: 小小程式愛好 \
 
-<!--
-**yichu0216/yichu0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 經歷
+:star2: 輔仁大學統計資訊學系 \
 
-Here are some ideas to get you started:
+###信箱
+:email: yichu0216@gmail.com \
+:email: 409421514@m365.fju.edu.tw \
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###興趣
+:sleeping_bed: 躺在床上
+
+
+
+
+
+
+
